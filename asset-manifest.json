@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SPA-Github-API/static/css/main.2c64d204.chunk.css",
+    "main.js": "/SPA-Github-API/static/js/main.2a15d7c0.chunk.js",
+    "main.js.map": "/SPA-Github-API/static/js/main.2a15d7c0.chunk.js.map",
+    "runtime-main.js": "/SPA-Github-API/static/js/runtime-main.da9724e5.js",
+    "runtime-main.js.map": "/SPA-Github-API/static/js/runtime-main.da9724e5.js.map",
+    "static/js/2.085d40a5.chunk.js": "/SPA-Github-API/static/js/2.085d40a5.chunk.js",
+    "static/js/2.085d40a5.chunk.js.map": "/SPA-Github-API/static/js/2.085d40a5.chunk.js.map",
+    "index.html": "/SPA-Github-API/index.html",
+    "static/css/main.2c64d204.chunk.css.map": "/SPA-Github-API/static/css/main.2c64d204.chunk.css.map",
+    "static/js/2.085d40a5.chunk.js.LICENSE.txt": "/SPA-Github-API/static/js/2.085d40a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da9724e5.js",
+    "static/js/2.085d40a5.chunk.js",
+    "static/css/main.2c64d204.chunk.css",
+    "static/js/main.2a15d7c0.chunk.js"
+  ]
+}
